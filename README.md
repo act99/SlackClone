@@ -26,9 +26,9 @@ BE - 황건욱, 김예은, 정희재
 <br/>
 <br/>
 
-###💬 깃헙주소 
-FE - https://github.com/act99/clone-slack
-BE - https://github.com/fnzl08/SlackClone.git
+### 💬 깃헙주소    
+FE - https://github.com/act99/clone-slack  
+BE - https://github.com/fnzl08/SlackClone.git  
 
   <br/>
   <br/>
