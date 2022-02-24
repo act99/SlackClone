@@ -85,7 +85,8 @@ public class DmsController {
                     dm.getWorkspaces().getWorkId(),
                     dm.getUser().getNickname(),
                     dm.getChat(),
-                    memberNick
+                    memberNick,
+                    dm.getCreatedAt()
             );
             System.out.println("5");
             chatResponseDtos.add(chatResponseDto);

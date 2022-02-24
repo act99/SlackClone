@@ -11,7 +11,7 @@ import java.util.Optional;
 @NoArgsConstructor
 @Getter
 @Setter
-public class Dms {
+public class Dms extends Timestamped {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     private Long dmsId;
